@@ -16,4 +16,4 @@ jQuery is a powerful JavaScript library that gives us an easier, shorter way to 
 + Insert DOM and modify the page with methods like `append` and `prepend`.
 + Understand what a DOM Event is and how to add a handler for an event.
 
-<a href='https://learn.co/lessons/hs-intro-web-design-jquery-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-jquery-intro' title='jQuery'>jQuery</a> on Learn.co and start learning to code for free.</p>
